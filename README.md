@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TraNguyen95
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning front end
+- 🌱 I’m front end developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
